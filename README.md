@@ -1,5 +1,6 @@
 # erc_panel
-European Rover Challange 2022 Maintenance Task panel.
+European Rover Challange 2022 Maintenance Task panel. 
+ITU Rover Team
 
 For spawn in gazebo:
 roslaunch panel gazebo.launch
